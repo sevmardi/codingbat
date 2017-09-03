@@ -3,6 +3,18 @@
 	<classpathentry kind="src" path="Warmup_1"/>
 	<classpathentry kind="src" path="Warmup_2"/>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Array-1"/>
+	<classpathentry kind="src" path="Logic-1"/>
+	<classpathentry kind="src" path="Logic-2"/>
+	<classpathentry kind="src" path="String-2"/>
+	<classpathentry kind="src" path="String-3"/>
+	<classpathentry kind="src" path="Array-2"/>
+	<classpathentry kind="src" path="Array-3"/>
+	<classpathentry kind="src" path="Recursion-1"/>
+	<classpathentry kind="src" path="Map-1"/>
+	<classpathentry kind="src" path="Map-2"/>
+	<classpathentry kind="src" path="Functional-1"/>
+	<classpathentry kind="src" path="Functional-2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
